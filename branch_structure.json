@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "SaviourBosan/feat/show-merchant-reputation-rebased",
+    "docs/security-audit-batches-2-3",
+    "feat/v16-retail-spending-validation",
+    "feat/wave6",
+    "fix/issue-315",
+    "fix/issue-316",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "SaviourBosan/feat/show-merchant-reputation-rebased": "main",
+    "docs/security-audit-batches-2-3": "main",
+    "feat/v16-retail-spending-validation": "main",
+    "feat/wave6": "main",
+    "fix/issue-315": "main",
+    "fix/issue-316": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "SaviourBosan/feat/show-merchant-reputation-rebased",
+    "docs/security-audit-batches-2-3",
+    "feat/v16-retail-spending-validation",
+    "feat/wave6",
+    "fix/issue-315",
+    "fix/issue-316",
+    "origin"
+  ]
+}
